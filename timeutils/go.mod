@@ -3,7 +3,7 @@ module github.com/kratos-admin/go-utils/timeutils
 go 1.20
 
 require (
-	github.com/kratos-admin/go-utils/trans v0.0.0
+	github.com/kratos-admin/go-utils/trans v1.0.0
 	github.com/stretchr/testify v1.8.4
 )
 
@@ -13,4 +13,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/kratos-admin/go-utils/trans => ../trans
+// replace github.com/kratos-admin/go-utils/trans => ../trans
