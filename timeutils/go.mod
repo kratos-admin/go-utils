@@ -3,7 +3,7 @@ module github.com/kratos-admin/go-utils/timeutils
 go 1.20
 
 require (
-	github.com/kratos-admin/go-utils/trans v1.0.0
+	github.com/kratos-admin/go-utils/trans v1.0.1
 	github.com/stretchr/testify v1.8.4
 )
 
